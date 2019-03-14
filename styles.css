@@ -1,0 +1,39 @@
+h1 {
+	font-family: 'Abril Fatface', cursive;
+	text-align: center;
+	font-size: 42 !important;
+	text-shadow: 4px 1px #FF5252;
+}
+
+h2 {
+	font-family: 'Abril Fatface', cursive;
+	text-align: center;
+	font-size: 32;
+}
+
+h3 {
+font-family: 'Abril Fatface', cursive;
+	text-align: center;
+	font-size: 26;
+}
+
+h4 {
+	font-family: 'Abril Fatface', cursive;
+	padding-bottom: 4%;
+}
+
+header {
+	padding:5%;
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+}
+
+#records {
+	align-content: center;
+}
+
+.list {
+	list-style-type:circle !important;
+}
